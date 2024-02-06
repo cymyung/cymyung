@@ -1,4 +1,5 @@
-### Hi there 👋
+### About me 
+Hello 👋, I'm Chang Yeon MYUNG, Data Scientist, Economist.
 
 <!--
 **cymyung/cymyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
