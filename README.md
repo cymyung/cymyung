@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cymyung&show_icons=true&locale=en&layout=compact" alt="cymyung" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cymyung&show_icons=true&locale=en" alt="cymyung" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cymyung&" alt="cymyung" /></p>
